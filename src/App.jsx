@@ -31,7 +31,7 @@ const products = [
 
   {
     name: "Playboi Carti wlr sympathy for the vampire tee",
-    image: "src/assets/WLR-SYMPATHY-FOR-THE-VAMPIRE-TEE-247x247.png",
+    image: "assets/WLR-SYMPATHY-FOR-THE-VAMPIRE-TEE-247x247.png",
     price: 40.0,
     material: "100% cotton",
     color: "black",

@@ -24,7 +24,7 @@ const EXCHANGE_RATE = 41.1; //курс на 30.09
 const products = [
   {
     name: "Playboi carti bloodsucker tee",
-    image: image1, // Імпортоване зображення
+    image: image1, 
     price: 40.0,
     material: "100% cotton",
     color: "black",
@@ -32,7 +32,7 @@ const products = [
   },
   {
     name: "Playboi Carti Burn Tee",
-    image: image2, // Імпортоване зображення
+    image: image2,
     price: 50.0,
     material: "100% cotton",
     color: "white",
@@ -41,7 +41,7 @@ const products = [
 
   {
     name: "Playboi Carti wlr sympathy for the vampire tee",
-    image: image3, // Імпортоване зображення
+    image: image3, 
     price: 40.0,
     material: "100% cotton",
     color: "black",
@@ -49,7 +49,7 @@ const products = [
   },
   {
     name: "Playboi Carti Devils Trill Tee",
-    image: image4, // Імпортоване зображення
+    image: image4,
     price: 50.0,
     material: "100% cotton",
     color: "black",
@@ -57,7 +57,7 @@ const products = [
   },
   {
     name: "Playboi Carti cpfm 4 wlr king vamp hoodie",
-    image: image5, // Імпортоване зображення
+    image: image5, 
     price: 150.0,
     material: "100% cotton",
     color: "black",
@@ -65,7 +65,7 @@ const products = [
   },
   {
     name: "Playboi Carti Neon Tour T-shirt Black",
-    image: image6, // Імпортоване зображення
+    image: image6, 
     price: 90.0,
     material: "100% cotton",
     color: "neon",
@@ -73,7 +73,7 @@ const products = [
   },
   {
     name: "Playboi carti new maps of hell poppy tee",
-    image: image7, // Імпортоване зображення
+    image: image7, 
     price: 40.0,
     material: "100% cotton",
     color: "white",
@@ -81,7 +81,7 @@ const products = [
   },
   {
     name: "Playboi carti new maps of hell tee",
-    image: image8, // Імпортоване зображення
+    image: image8, 
     price: 40.0,
     material: "100% cotton",
     color: "black",
@@ -89,7 +89,7 @@ const products = [
   },
   {
     name: "Playboi Carti Neon Tour Drug Zone Tee Black",
-    image: image9, // Імпортоване зображення
+    image: image9,
     price: 80.0,
     material: "100% cotton",
     color: "black",
@@ -97,7 +97,7 @@ const products = [
   },
   {
     name: "Playboi Carti War Dog Coffee Mug",
-    image: image10, // Імпортоване зображення
+    image: image10,
     price: 25.0,
     material: "ceramic",
     color: "black",

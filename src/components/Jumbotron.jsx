@@ -1,6 +1,7 @@
 "use client";
 import "./Card/card.css";
 import "../output.css";
+import red from "../assets/red.png";
 
 function Jumbotron({ startShopping }) {
   return (
@@ -8,7 +9,7 @@ function Jumbotron({ startShopping }) {
       <section>
         <div className="px-4 mx-auto max-w-screen-xl text-center py-24 lg:py-56">
           <img
-            src="src/assets/red.png"
+            src={red}
             alt="Red"
             className="mx-auto mb-8"
             style={{ width: "20%", height: "auto", marginTop: "-100px" }}

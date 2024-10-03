@@ -5,7 +5,7 @@ import red from "../assets/red.png";
 
 function Jumbotron({ startShopping }) {
   return (
-    <main className="center">
+    <main className="center" style={{ paddingTop: "150px" }}>
       <section>
         <div className="px-4 mx-auto max-w-screen-xl text-center py-24 lg:py-56">
           <img

@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import Card from "../Card/Card.jsx";
 import ProductDetail from "../Details/ProductDetail.jsx";
+import red from "././red.png";
 
 function List({
   products,
@@ -53,7 +54,7 @@ function List({
       ) : (
         <>
           <img
-            src="/src/assets/red.png"
+            src={red}
             alt="Red"
             className="mx-auto mb-8"
             style={{ width: "15%", height: "auto", marginTop: "-220px" }}

@@ -8,23 +8,23 @@ import List from "./components/List/List.jsx";
 import Cart from "./components/Cart/Cart.jsx";
 import AuthModal from "./components/Authorization/AuthModal.jsx";
 import ProductDetail from "./components/Details/ProductDetail.jsx";
-import image1 from './assets/BLOODSUCKER-TEE-247x247.png';
-import image2 from './assets/5-247x247.png';
-import image3 from './assets/WLR-SYMPATHY-FOR-THE-VAMPIRE-TEE-247x247.png';
-import image4 from './assets/7-247x247.png';
-import image5 from './assets/CPFM-4-WLR-KING-VAMP-HOODIE-247x247.png';
-import image6 from './assets/36-247x247.png';
-import image7 from './assets/NEW-MAPS-OF-HELL-POPPY-TEE-247x247.png';
-import image8 from './assets/NEW-MAPS-OF-HELL-TEE-247x247.png';
-import image9 from './assets/29-247x247.png';
-import image10 from './assets/WAR-DOG-COFFEE-MUG-247x247.png';
+import image1 from "./assets/BLOODSUCKER-TEE-247x247.png";
+import image2 from "./assets/5-247x247.png";
+import image3 from "./assets/WLR-SYMPATHY-FOR-THE-VAMPIRE-TEE-247x247.png";
+import image4 from "./assets/7-247x247.png";
+import image5 from "./assets/CPFM-4-WLR-KING-VAMP-HOODIE-247x247.png";
+import image6 from "./assets/36-247x247.png";
+import image7 from "./assets/NEW-MAPS-OF-HELL-POPPY-TEE-247x247.png";
+import image8 from "./assets/NEW-MAPS-OF-HELL-TEE-247x247.png";
+import image9 from "./assets/29-247x247.png";
+import image10 from "./assets/WAR-DOG-COFFEE-MUG-247x247.png";
 
 const EXCHANGE_RATE = 41.1; //курс на 30.09
 
 const products = [
   {
     name: "Playboi carti bloodsucker tee",
-    image: image1, 
+    image: image1,
     price: 40.0,
     material: "100% cotton",
     color: "black",
@@ -41,7 +41,7 @@ const products = [
 
   {
     name: "Playboi Carti wlr sympathy for the vampire tee",
-    image: image3, 
+    image: image3,
     price: 40.0,
     material: "100% cotton",
     color: "black",
@@ -57,7 +57,7 @@ const products = [
   },
   {
     name: "Playboi Carti cpfm 4 wlr king vamp hoodie",
-    image: image5, 
+    image: image5,
     price: 150.0,
     material: "100% cotton",
     color: "black",
@@ -65,7 +65,7 @@ const products = [
   },
   {
     name: "Playboi Carti Neon Tour T-shirt Black",
-    image: image6, 
+    image: image6,
     price: 90.0,
     material: "100% cotton",
     color: "neon",
@@ -73,7 +73,7 @@ const products = [
   },
   {
     name: "Playboi carti new maps of hell poppy tee",
-    image: image7, 
+    image: image7,
     price: 40.0,
     material: "100% cotton",
     color: "white",
@@ -81,7 +81,7 @@ const products = [
   },
   {
     name: "Playboi carti new maps of hell tee",
-    image: image8, 
+    image: image8,
     price: 40.0,
     material: "100% cotton",
     color: "black",

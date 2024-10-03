@@ -3,6 +3,7 @@ import "../Card/card.css";
 import { Icon } from "@iconify/react";
 import { useNavigate } from "react-router-dom";
 
+
 function Card({
   product,
   onCheckboxChange,

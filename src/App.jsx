@@ -14,7 +14,7 @@ const EXCHANGE_RATE = 41.1; //курс на 30.09
 const products = [
   {
     name: "Playboi carti bloodsucker tee",
-    image: "src/assets/BLOODSUCKER-TEE-247x247.png",
+    image: "assets/BLOODSUCKER-TEE-247x247.png",
     price: 40.0,
     material: "100% cotton",
     color: "black",
@@ -22,7 +22,7 @@ const products = [
   },
   {
     name: "Playboi Carti Burn Tee",
-    image: "src/assets/5-247x247.png",
+    image: "assets/5-247x247.png",
     price: 50.0,
     material: "100% cotton",
     color: "white",
